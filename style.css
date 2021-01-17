@@ -1,0 +1,104 @@
+.container{
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+}
+
+.garis{
+    height: 10px;
+    background-color:white;
+}
+
+body{
+    background-color:darkslategray;
+    color:#ffffff;
+}
+
+.keteranganpribadi{
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    background: #636e72;
+    margin-top: 20px;
+}
+
+label{
+    color: #ffffff;
+}
+
+/* h1{
+    color: #ffffff;
+} */
+
+/* p{
+    color:#ffffff;
+} */
+
+h2{
+    color: #f5faf9; 
+    padding: 10px;
+    background: #74b9ff;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+h3{
+    color: #f5faf9; 
+    padding: 10px;
+    background: #74b9ff;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+table{
+    width: 500px;
+    color: #949697;
+    border: 1px solid;
+}
+
+input[type="text"]{
+    width: 325px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+select{
+    width: 112px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 10px 0;
+}
+
+input[type="submit"]{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    background: #74b9ff;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.keterangantempattinggal{
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    background: #636e72;
+    margin-top: 20px
+}
+
+textarea{
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+input[type="number"]{
+    width: 325px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
